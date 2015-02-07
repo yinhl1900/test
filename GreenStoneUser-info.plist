@@ -16,7 +16,7 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>cn.greenStone.GreenStoneUser</key>
+                <key>bundle-identifier</key>
                 <string>cn.greenStone.GreenStoneUser</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
